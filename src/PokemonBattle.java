@@ -1,3 +1,17 @@
+/************
+ * Grading comments:
+ *  Nice job.   Does everything it is supposed to do. 
+ *  Don't worry about the STAB*rand calculation - it was confusing in the directions.
+ *  
+ *   RUBRIC Unit 3 = 25 pts     25/25
+ * 10 pts - Correct Output (must compile and run)   = 10/10
+ * 5 pts - Proper Use of Scanner, and decent User Interface  5/5
+ * 3 pts - Proper Use of Return  3/3
+ * 3 pts - Proper User of Parameter  3/3
+ * 2 pts - Pseudocode and comments   2/2
+ * 2 pts - Consistent Layout and Style following Style Guidelines   2/2
+ *****/
+
 
 /*Calls 3 methods
 
